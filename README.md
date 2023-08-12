@@ -68,7 +68,8 @@ npm i
 Visit the deployed site below. When you enter text it will save automatically when you click off of the window. If you refresh or revist the text will remain. If you go offline it will store your changes until you are back online. It is downloadable as a seperate app.
 
 ### Deployed Site
-https://felisha-pwa-text-editor.herokuapp.com/
+https://textteditorr-758cd3961530.herokuapp.com/
+
 
 ## Credits
 
